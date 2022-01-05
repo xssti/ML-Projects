@@ -1,4 +1,4 @@
 # ML-Projects
 
 This repository consists of all the ML Projects I have and will work on.
-Out of curiosity and the urge to upskill my knowledge I am working on these projects
+I love engaging myself in side-projects for the purpose of learning new tools and technologies.
